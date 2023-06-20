@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -shared -Wl,-soname,libMathFunctions.so -o libMathFunctions.so CMakeFiles/MathFunctions.dir/MathFunctions.cxx.o  -Wl,-rpath,/home/phoenix/work/cmake/tutorial/step10_build/MathFunctions: libSqrtLibrary.so 

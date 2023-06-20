@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-c++"
+	BuildStamp="20230619-0535-Experimental"
+	Name="phoenix"
+	Generator="ctest-3.26.4"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="11.3.0"
+	OSName="Linux"
+	Hostname="phoenix"
+	OSRelease="5.19.0-41-generic"
+	OSVersion="#42~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Apr 18 17:40:00 UTC 2"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="23"
+	ModelID="113"
+	ProcessorCacheSize="512"
+	NumberOfLogicalCPU="24"
+	NumberOfPhysicalCPU="12"
+	TotalVirtualMemory="65535"
+	TotalPhysicalMemory="31999"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="3999.78"
+	>
+	<Configure>
+		<StartDateTime>Jun 19 13:35 CST</StartDateTime>
+		<StartConfigureTime>1687152950</StartConfigureTime>
+		<ConfigureCommand>"/usr/local/bin/cmake" "/home/phoenix/work/cmake/tutorial/step6"</ConfigureCommand>
+		<Log>-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/phoenix/work/cmake/tutorial/step6_build
+</Log>
+		<ConfigureStatus>0</ConfigureStatus>
+		<EndDateTime>Jun 19 13:35 CST</EndDateTime>
+		<EndConfigureTime>1687152950</EndConfigureTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Configure>
+</Site>

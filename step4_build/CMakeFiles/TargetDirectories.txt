@@ -1,0 +1,7 @@
+/home/phoenix/work/cmake/tutorial/step4_build/CMakeFiles/Tutorial.dir
+/home/phoenix/work/cmake/tutorial/step4_build/CMakeFiles/edit_cache.dir
+/home/phoenix/work/cmake/tutorial/step4_build/CMakeFiles/rebuild_cache.dir
+/home/phoenix/work/cmake/tutorial/step4_build/MathFunctions/CMakeFiles/MathFunctions.dir
+/home/phoenix/work/cmake/tutorial/step4_build/MathFunctions/CMakeFiles/SqrtLibrary.dir
+/home/phoenix/work/cmake/tutorial/step4_build/MathFunctions/CMakeFiles/edit_cache.dir
+/home/phoenix/work/cmake/tutorial/step4_build/MathFunctions/CMakeFiles/rebuild_cache.dir

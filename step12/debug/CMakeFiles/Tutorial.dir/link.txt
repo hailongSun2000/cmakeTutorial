@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Tutorial.dir/tutorial.cxx.o -o Tutoriald  -Wl,-rpath,/home/phoenix/work/cmake/tutorial/step12/debug/MathFunctions: MathFunctions/libMathFunctionsd.so.1.0.0 -Wl,-rpath-link,/home/phoenix/work/cmake/tutorial/step12/debug/MathFunctions 
